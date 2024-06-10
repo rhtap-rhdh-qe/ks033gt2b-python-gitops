@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ks033gt2b-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ks033gt2b-python-gitops
